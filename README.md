@@ -82,4 +82,6 @@ Contributions to *KITAKURAMBA-MD* are welcome! If you have ideas for new feature
 [![github](https://github.com/github.png?size=100)](https://github.com/Collomeknec)
 
 Enjoy the diverse features of the *KITAKURAMBA-MD*  to enhance your Whatsapp more enjoyable
+## Watch Tutorial videos.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gaming_menance?si=6rHZnvI8BnA3NhMR)
 ☣Powered by Collome
